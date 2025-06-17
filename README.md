@@ -28,3 +28,8 @@ Default player will have a team name and default player name A/B.
 - Tournament bracket generator
 - Video/photo attachments to matches
 - Notes and comments for matches
+
+Platform  Firebase App Id
+web       1:904852322209:web:7e08f954bd5741ea1ebde0
+android   1:904852322209:android:80ad873bf33a00341ebde0
+ios       1:904852322209:ios:024df1ac8bc98cd91ebde0
